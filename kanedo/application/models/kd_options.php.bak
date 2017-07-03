@@ -1,0 +1,41 @@
+<?php   defined('BASEPATH') OR exit('No direct script access allowed');
+class kd_options extends CI_Model {
+
+	function __construct()
+	{
+		parent::__construct();
+	}
+
+	/**
+	*	网站基础信息
+	*	@return array
+	*/
+	public function getOptions()
+	{
+		$query = $this->db->get('kd_options');
+
+		$array = array();
+		foreach($query->result() as $val)
+		{
+			$array[$val->option_name] = $val->option_value;
+		}
+
+		return $array;
+	}
+
+	public function updateEntry($data)
+	{
+
+		$arr = array();
+		foreach($data as $key=>$val)
+		{
+			$this->db->where('option_name', $key);
+			$arr['option_value'] = trim($val);
+			$this->db->update('kd_options', $arr);
+			$arr = array();
+		}
+
+		return $this->db->affected_rows();
+	}
+
+}

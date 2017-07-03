@@ -1,0 +1,21 @@
+/*
+HTML 5 Template Name: 
+File: 404 - 1 CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+@font-face {font-family: 'webfont';
+  src: url('//at.alicdn.com/t/nqb6fcuelwtjfw29.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/nqb6fcuelwtjfw29.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/nqb6fcuelwtjfw29.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/nqb6fcuelwtjfw29.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/nqb6fcuelwtjfw29.svg#NotoSansHans-DemiLight') format('svg'); /* iOS 4.1- */
+}
+
+#fof{ display:block; width: 100%; line-height: 1.6em; text-align: center; }
+#fof .hgroup{ margin-bottom: 50px; }
+#fof .hgroup h1{}
+#fof .hgroup h2{}
+#fof img{margin-bottom:25px;}
+#fof p{display:block; margin:0 0 25px 0; padding:0; font-size:16px;}

@@ -523,4 +523,4 @@ $config['rewrite_short_tags'] = FALSE;
 $config['proxy_ips'] = '';
 
 // 压缩HTML
-// $config['enable_hooks'] = TRUE;
+$config['enable_hooks'] = TRUE;

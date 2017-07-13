@@ -44,7 +44,6 @@ function tree2html($tree){
 }
 
 //php防注入和XSS攻击通用过滤. 
-//by qq:831937
 // $_GET     && SafeFilter($_GET);
 // $_POST    && SafeFilter($_POST);
 // $_COOKIE  && SafeFilter($_COOKIE);

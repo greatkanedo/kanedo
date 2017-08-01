@@ -48,7 +48,7 @@ class MY_Controller extends CI_Controller {
 		$this->load->helper(array('form', 'url'));
 		
 		// 加载模型
-		$this->load->model(array('Options_model', 'Navigator_model'));
+		$this->load->model(array('Options_model', 'Navigator_model', 'Category_model'));
 
 		// 构造基础数据
 		$this->option    = $this->Options_model->getOptions();

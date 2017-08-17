@@ -187,7 +187,7 @@ class Home extends CI_Controller
 	 *	404
 	 *	@date 2017年5月11日 20:38:22
 	 */
-	protected function show_404()
+	public function show_404()
 	{
 		header("HTTP/1.1 404 Forbidden");
 		$this->load->view('404', array(
@@ -203,7 +203,7 @@ class Home extends CI_Controller
 	 *	@date 2017年2月17日 18:16:30
 	 */
 
-	protected function _404()
+	public function _404()
 	{
 		header("HTTP/1.1 404 Forbidden");
 echo <<<STATUS

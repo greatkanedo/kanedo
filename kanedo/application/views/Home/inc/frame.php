@@ -23,7 +23,7 @@
 <link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/all.css" type="text/css">
 <link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/font-awesome.min.css">
 <script src="https://kanedo.oss-cn-shanghai.aliyuncs.com/js/jquery.min.js"></script>
-<script type="text/javascript">
+<script type="text/javascript"> 
 
 	var _hmt = _hmt || [];
 	(function() {

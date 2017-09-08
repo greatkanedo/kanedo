@@ -23,3 +23,5 @@
     </div>
   </section>
   <!-- ============================ Hero Image end =========================== -->
+
+  https://kanedo.oss-cn-shanghai.aliyuncs.com/img/index.jpg

@@ -87,6 +87,7 @@ class Home extends CI_Controller
 											'data'      =>  $this->data
 											)
 		);
+		
 		$this->output->cache($this->config->item('cache_time'));
 	}
 

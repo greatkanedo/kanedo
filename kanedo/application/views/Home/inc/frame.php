@@ -16,10 +16,10 @@
 <meta name="description" content="<?php echo $option['description']; ?>" />
 <meta name="keywords" content="<?php echo $option['keywords']; ?>" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/xcode.css" type="text/css">
 <link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/share.min.css" type="text/css">
-<link rel="stylesheet" href="https://odu38kv7q.qnssl.com/all1.css" type="text/css">
+<link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/common.css" type="text/css">
 <link rel="stylesheet" href="https://kanedo.oss-cn-shanghai.aliyuncs.com/css/all.css" type="text/css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <script src="https://kanedo.oss-cn-shanghai.aliyuncs.com/js/jquery.min.js"></script>

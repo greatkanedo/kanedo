@@ -4,7 +4,7 @@
   <div id="navigation" class="navbar navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container"> 
-        <div class="logo"> <a href="/" title="kanedo" class="animsition-link"> <img src="https://kanedo.oss-cn-shanghai.aliyuncs.com/img/nice.png" alt="logo" width="35px;"/> </a> </div>
+        <div class="logo"> <a href="/" title="kanedo" class="animsition-link"> <img src="https://kanedo.oss-cn-shanghai.aliyuncs.com/images/nice.png" alt="logo" width="35px;"/> </a> </div>
         <nav>
             <ul class="nav">
                 <li><a href="/" class="animsition-link">KaneDo</a></li>

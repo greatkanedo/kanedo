@@ -3,7 +3,7 @@
 <!-- Right List Start -->
 <div class="sb-slidebar sb-right sb-style-overlay sb-momentum-scrolling">
   <div class="sb-close" aria-label="Close Menu" aria-hidden="true">
-    <img src="/static/images/close.png" alt="Close"/>
+    <img src="https://kanedo.oss-cn-shanghai.aliyuncs.com/images/close.png" alt="Close"/>
   </div>
   <ul class="sb-menu">
         <li><a href="/" class="animsition-link" title="Home">Home</a></li>

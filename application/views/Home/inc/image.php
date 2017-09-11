@@ -25,3 +25,4 @@
   <!-- ============================ Hero Image end =========================== -->
 
   https://kanedo.oss-cn-shanghai.aliyuncs.com/img/index.jpg
+  https://kanedo.oss-cn-shanghai.aliyuncs.com/images/index.jpg

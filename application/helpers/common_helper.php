@@ -99,6 +99,9 @@ function compress_html($string) {
     return preg_replace($pattern, $replace, $string);
 }
 
+
+
+
 /**
  * 获取用户真实 IP
  */

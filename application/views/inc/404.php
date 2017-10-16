@@ -6,7 +6,7 @@
                 <h2>你访问的页面好像不存在&hellip;</h2>
             </div>
             <div class="content"></div>
-            <img src="https://kanedo.oss-cn-shanghai.aliyuncs.com/img/404.png" alt="出错啦...">
+            <img src="https://kanedo.oss-cn-shanghai.aliyuncs.com/images/404.png" alt="出错啦...">
             <p><?=$option['info']?></p>
         </section>
     </div>

@@ -18,11 +18,8 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>  
       <div class="herofade beige-dk"></div>
     </div>
   </section>
   <!-- ============================ Hero Image end =========================== -->
-
-  https://kanedo.oss-cn-shanghai.aliyuncs.com/img/index.jpg
-  https://kanedo.oss-cn-shanghai.aliyuncs.com/images/index.jpg

@@ -16,10 +16,10 @@ class Category extends MY_Controller {
 
 		$category = $this->Category_model->getCategoryTree();
 
-		$this->load->view('Category/list', array(
-										'cate'   => $category,
-										'option' => $this->option
-											));
+		$this->load->view('Category/list', [
+			'cate'   => $category,
+			'option' => $this->option
+		]);
 	}
 
 
@@ -28,10 +28,10 @@ class Category extends MY_Controller {
 	{
 		$where = array();
 		
-		$this->load->view('Category/add', array(
-									'option' => $this->option,
-									'cat'    => $this->category,
-										));
+		$this->load->view('Category/add', [
+			'option' => $this->option,
+			'cat'    => $this->category,
+		]);
 	}
 
 
@@ -47,11 +47,11 @@ class Category extends MY_Controller {
 		$cat  = $this->Category_model->getCategoryTree(array(), TRUE);
 		$data = $this->Category_model->getCate($this->uri->segment(3));
 
-		$this->load->view('Category/edit', array(
-											'option' =>  $this->option,
-											'data'   =>  $data, 
-											'cat'    =>  $this->category
-											));
+		$this->load->view('Category/edit', [
+			'option' =>  $this->option,
+			'data'   =>  $data, 
+			'cat'    =>  $this->category
+		]);
 	}
 
 

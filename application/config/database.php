@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '101.200.122.190',
-	'username' => 'root',
-	'password' => 'Qq278151052',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
 	'database' => 'kanedo',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

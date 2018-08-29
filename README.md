@@ -10,6 +10,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后台页面我采用了`H-ui admin`，一款优秀轻量的前台框架来完成后台管理界面，功能丰富且足够简洁。
 
 
+### 集成
+| 名称          |
+|:-------------: |
+| Codeignter 5.1 |
+| H-ui admin 3.1 |
+| 皮肤来自: [叶落山城秋](https://www.iphpt.com/) |
+| Qiniu SDK 7.1.3 |
+| Web uploader |
+
+
 ### 运行环境
 * **PHP5.0+**
 * **Mysql5.0+**

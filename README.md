@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博客前台是在一位同为后端开发工程师的个人博客扒下来的，原博主的后端框架是使用 `Laravel` 框架开发的，在此感谢[@叶落山城秋](https://www.iphpt.com/)。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后台页面我采用了`H-ui admin`，一款优秀轻量的前台框架来完成后台管理界面，功能丰富且足够简洁。洁。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后台页面我采用了`H-ui admin`，一款优秀轻量的前台框架来完成后台管理界面，功能丰富且足够简洁。
 
 ##### 运行环境
 * **PHP5.0+**

@@ -1,3 +1,5 @@
+<a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 ## My Blog
 ****
 
@@ -45,5 +47,3 @@ index.php|/login|
 | ~~多说评论~~ | ~~已完成~~ |  |
 | i18n | 暂时搁置 |  |
 | ~~文章详情~~ | ~~已完成~~ | |
-
-<a href="https://github.com/you"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub"></a>

@@ -9,7 +9,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后台页面我采用了`H-ui admin`，一款优秀轻量的前台框架来完成后台管理界面，功能丰富且足够简洁。
 
-##### 运行环境
+### 运行环境
 * **PHP5.0+**
 * **Mysql5.0+**
 * **Composer**

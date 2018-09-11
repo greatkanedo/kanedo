@@ -1,7 +1,7 @@
 ## My Blog
 ****
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入Web开发有些日子了，一直想写一个内容足够丰富、界面简洁大气的个人博客，后端框架足够轻量精炼。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入Web开发有些日子了，一直想写一个内容足够丰富、后端框架足够轻量精炼，前台界面简洁大气的个人博客。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市面上流行的后端框架屈指可数，之前项目使用过`ThinkPHP3.1.3`和`ThinkPHP3.2.3`以及`YII1.0`和`YII2.0`，这些框架对于个人博客来说都过于厚重，模版引擎(例如:`Smarty`)确实足够小巧灵活，但毕竟已经落后，没有公司再使用，想到之前在外包公司曾经使用过Codeignter给前台做接口，Codeignter小巧灵活，中小项目都能够得心应手，再三挑选之后决定采用`Codeignter`作为后端框架。
 

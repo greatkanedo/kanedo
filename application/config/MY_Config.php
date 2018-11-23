@@ -1,7 +1,7 @@
 <?php
-$config['pwd_code']      = '$#%@#$@#!*&(';
-$config['accessKey']     = 'vaMsT9W_6QB_cDw0UslmnzsGOdtNGyOSIy9i7Jgj';
-$config['secretKey']     = 'IMUqS8BB0rETUZu6QgsCUgZIBMoCkIwrDcXMSEcp';
-$config['bucket']        = 'kanedo';
-$config['url']           = 'https://up.qbox.me';
+$config['pwd_code']      = 'Add your pwd_code';
+$config['accessKey']     = 'Add your accessKey';
+$config['secretKey']     = 'Add your secretKey';
+$config['bucket']        = 'Bucket name';
+$config['url']           = 'Bucket url';
 $config['cache_time']    = 60;

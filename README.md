@@ -1,5 +1,4 @@
-[![](https://img.shields.io/appveyor/ci/:user/:repo.svg)](kanedo)
-
+[![](https://img.shields.io/appveyor/ci/:user/:repo.svg)](http://www.kanedo.cn)
 
 ## My Blog
 ****
